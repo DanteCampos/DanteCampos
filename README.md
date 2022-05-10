@@ -21,10 +21,14 @@
 - 📝 [My resume](https://github.com/DanteCampos/DanteCampos/blob/main/Resume.pdf)
 - 📫 How to reach me: dcamposfsa@gmail.com or [LinkedIn](https://www.linkedin.com/in/daniel-campos-151756184/)
 
-
+### 📊 Github stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DanteCampos&show_icons=true&theme=synthwave&show_owner=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=DanteCampos&show_icons=true&theme=synthwave&show_owner=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanteCampos&layout=compact&theme=synthwave&hide=Makefile" />
 </a>
+  
+  <p align="center">
+        <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
