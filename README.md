@@ -16,6 +16,7 @@
 - 🌱 Learning about compilers and digital images processing right now
 - 👯 I’m looking to collaborate on the backend of open source projects
 - 🖥️ Open to remote or local (with sponsored visa) job offers
+- 📝 [My resume](https://github.com/DanteCampos/DanteCampos/blob/main/Resume.pdf)
 - 📫 How to reach me: dcamposfsa@gmail.com or [LinkedIn](https://www.linkedin.com/in/daniel-campos-151756184/)
 
 
