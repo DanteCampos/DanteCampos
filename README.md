@@ -1,4 +1,9 @@
 ### Hi there, Dante here 👋
+<a href="https://www.instagram.com/dcamposfsa/">
+  <img align="left" alt="Dante's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+<a href="https://www.linkedin.com/in/daniel-campos-151756184/">
+  <img align="left" alt="Dante's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 
 #### A little about me🙋‍♂️:
 - 😄 Pronouns: He/Him
@@ -9,7 +14,7 @@
 - 🌱 Learning about compilers and digital images processing right now
 - 👯 I’m looking to collaborate on the backend of open source projects
 - 🖥️ Open to remote or local (with sponsored visa) job offers
-- 📫 How to reach me: dcamposfsa@gmail.com or [linkedin](https://www.linkedin.com/in/daniel-campos-151756184/)
+- 📫 How to reach me: dcamposfsa@gmail.com or [LinkedIn](https://www.linkedin.com/in/daniel-campos-151756184/)
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
