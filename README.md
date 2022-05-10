@@ -25,9 +25,9 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=DanteCampos&show_icons=true&theme=synthwave&show_owner=true" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanteCampos&layout=compact&theme=synthwave&hide=Makefile" />
-</a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karlosdaniel451&count_private=true&theme=radical)](https://github.com/DanteCampos/github-readme-stats)
+
   
   <p align="center">
         <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
