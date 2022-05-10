@@ -4,7 +4,9 @@
 <a href="https://www.linkedin.com/in/daniel-campos-151756184/">
   <img align="left" alt="Dante's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-
+  
+<br/>
+  
 #### A little about me🙋‍♂️:
 - 😄 Pronouns: He/Him
 - 🎨 ENTP
