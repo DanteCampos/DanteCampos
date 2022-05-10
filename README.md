@@ -1,4 +1,4 @@
-### Hi there, Dante here 👋
+### Hi there, Dante here <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://www.instagram.com/dcamposfsa/">
   <img align="left" alt="Dante's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 <a href="https://www.linkedin.com/in/daniel-campos-151756184/">
@@ -9,7 +9,7 @@
   
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
   
-#### A little about me🙋‍♂️:
+#### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little about me...
 - 😄 Pronouns: He/Him
 - 🎨 ENTP
 - 🌎 Brazilian
