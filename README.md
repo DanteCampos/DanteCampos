@@ -1,4 +1,4 @@
-## Hi there, Dante here <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15px">
+## Hi there, Dante here 👋
 <a href="https://www.instagram.com/dcamposfsa/">
   <img align="left" alt="Dante's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 <a href="https://www.linkedin.com/in/daniel-campos-151756184/">
