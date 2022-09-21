@@ -14,8 +14,8 @@
 - 🎨 ENTP
 - 🌎 Brazilian
 - 🎓 Computer Science undergraduate student at [Federal University of Goiás (UFG) - Goiânia, Brasil](https://inf.ufg.br/p/30138-ciencia-da-computacao)
-- 🔭 Currently working on a [graph web tool](https://github.com/braully/graph-problems-tool)
-- 🌱 Learning about compilers and digital images processing right now
+- 🔭 Currently working on a [MGol-C Compiler](https://github.com/DanteCampos/MGol-to-C-Compiler)
+- 🌱 Learning Java Spring right now
 - 👯 I’m looking to collaborate on the backend of open source projects
 - 🖥️ Open to remote or local (with sponsored visa) job offers
 - 📝 [My resume](https://github.com/DanteCampos/DanteCampos/blob/main/Resume.pdf)
