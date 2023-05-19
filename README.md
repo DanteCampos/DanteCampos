@@ -14,9 +14,8 @@
 - 🎨 ENTP
 - 🌎 Brazilian
 - 🎓 Computer Science undergraduate student at [Federal University of Goiás (UFG) - Goiânia, Brasil](https://inf.ufg.br/p/30138-ciencia-da-computacao)
-- 🔭 Currently working on a [MGol-C Compiler](https://github.com/DanteCampos/MGol-to-C-Compiler)
-- 🌱 Learning Java Spring right now
-- 👯 I’m looking to collaborate on the backend of open source projects
+- 🔭 Currently working on a slicing xApp in the O-RAN architecture
+- 🌱 Learning Kubernetes, Docker and the O-RAN architecture
 - 🖥️ Open to remote or local (with sponsored visa) job offers
 - 📝 [My resume](https://github.com/DanteCampos/DanteCampos/blob/main/Resume.pdf)
 - 📫 How to reach me: dcamposfsa@gmail.com or [LinkedIn](https://www.linkedin.com/in/daniel-campos-151756184/)
