@@ -1,9 +1,6 @@
 ## Hi there, Dante here 👋
 <a href="https://www.instagram.com/dcamposfsa/">
   <img align="left" alt="Dante's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-<a href="https://www.linkedin.com/in/daniel-campos-151756184/">
-  <img align="left" alt="Dante's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
   
 <br/>
   
