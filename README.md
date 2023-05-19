@@ -18,7 +18,7 @@
 - 🌱 Learning Kubernetes, Docker and the O-RAN architecture
 - 🖥️ Open to remote or local (with sponsored visa) job offers
 - 📝 [My resume](https://github.com/DanteCampos/DanteCampos/blob/main/Resume.pdf)
-- 📫 How to reach me: dcamposfsa@gmail.com or [LinkedIn](https://www.linkedin.com/in/daniel-campos-151756184/)
+- 📫 How to reach me: dcamposfsa@gmail.com
 
 ### 📊 Github stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
