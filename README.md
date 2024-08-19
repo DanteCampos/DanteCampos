@@ -17,13 +17,6 @@
 - 📝 [My resume](https://github.com/DanteCampos/DanteCampos/blob/main/Resume.pdf)
 - 📫 How to reach me: dcamposfsa@gmail.com
 
-### 📊 Github stats
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=DanteCampos&show_icons=true&theme=synthwave&show_owner=true" />
-</a>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karlosdaniel451&count_private=true&theme=radical)](https://github.com/DanteCampos/github-readme-stats)
-
 ### 🛠️ Tools I use
   
   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
