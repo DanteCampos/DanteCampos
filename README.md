@@ -11,6 +11,7 @@
 - 🌎 Brazilian
 - 🎓 Computer Science master's student at [Federal University of Goiás (UFG) - Goiânia, Brasil](https://ppgcc.inf.ufg.br/?atr=en&locale=en)
 - 🔭 Currently researching network slicing, O-RAN, and radio resource scheduling
+- 📝 [My resume](https://github.com/DanteCampos/DanteCampos/blob/main/Resume.pdf)
 - 📫 How to reach me: dante_campos@discente.ufg.br
 
 ### 🛠️ Knowledges
