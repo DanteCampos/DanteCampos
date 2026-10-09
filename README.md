@@ -7,7 +7,7 @@
 - 🌎 Brazilian
 - 🎓 Computer Engineering PhD student at [Virginia Tech - Arlington VA, US](https://www.vt.edu)
 - 🔭 Currently researching Integrated Sensing and Communication (ISAC), Network Slicing, Resouce Allocation, and O-RAN
-- 📝 [Google Scholar](https://www.linkedin.com/in/dante-campos/)
+- 📝 [Google Scholar](https://scholar.google.com.br/citations?user=NEuyEkUAAAAJ&hl=en&oi=sra)
 - 👥 [Linkedin](https://www.linkedin.com/in/dante-campos/)
 - 📫 How to reach me: dcamposfsa@vt.edu
 
